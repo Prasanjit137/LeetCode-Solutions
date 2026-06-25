@@ -136,12 +136,10 @@ else:
 res = first_match and dfs(i+1, j+1)
 memo[(i, j)] = res
 return res
-Restored from local
-Upgrade to Cloud Saving
+Saved
 Ln 1, Col 1
 You must run your code first
 🚀 Push to GitHub
-✅ Accepted! Click "Push to GitHub" to save.
 
 
 ## Solution Code
